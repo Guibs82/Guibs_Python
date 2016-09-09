@@ -1,0 +1,13 @@
+alien_invasion.py
+    --> 游戏入口
+
+settings.py
+    --> 存放游戏设置
+
+ship.py
+    --> 飞船类
+
+images
+    --> 存放图像资源
+images/ship.bmp
+    --> 飞船图像
