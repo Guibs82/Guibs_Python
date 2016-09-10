@@ -1,0 +1,10 @@
+# 生成数据 CreateData
+ CreateData/mpi_squares.py [折线图]
+-->
+ CreateData/scatter_squares.py [散点图]
+-->
+ CreateData/random_walk.py [随机漫步]
+ CreateData/rw_visual.py [绘制随机漫步]
+-->
+ CreateData/die.py [骰子]
+ CreateData/die_visual.py [抛骰子]
