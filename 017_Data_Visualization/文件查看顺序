@@ -8,3 +8,15 @@
 -->
  CreateData/die.py [骰子]
  CreateData/die_visual.py [抛骰子]
+
+# 下载数据 DownloadData
+-->
+ DownloadData/highs_lows.py [气温]
+-->
+ DownloadData/world_population.py [国家人数]
+-->
+ DownloadData/countries.py [国家代码]
+-->
+ DownloadData/country_codes.py [国家代码]
+-->
+ DownloadData/americas.py [世界地图]
